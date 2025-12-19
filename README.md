@@ -1,9 +1,15 @@
-- 👋 Hi, I’m @21Mewzyk. 
-- 👀 I’m interested in AI, Machine learning, and Python. 
-- 📫 How to reach me: discord: mewzyk
-- ⚡ Fun fact: I like cats. I have two of them named Luna and Meowth. (Yes. Meowth like in Pokemon) And yes, they disturb me every time I'm working LOL.
+👋 Hi, I’m @21Mewzyk
+👀 Interests: Python, Machine Learning, and Applied AI
+🎯 Currently focused on building end-to-end machine learning projects and capstone systems that support data-driven decision making (forecasting, optimization, and automation).
 
-<!---
-21Mewzyk/21Mewzyk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🛠 Skills & Tools:
+- Python (OOP, testing, automation)
+- Machine Learning (scikit-learn, pandas, numpy)
+- Data analysis & visualization
+  
+📫 Contact:
+- Discord: mewzyk
+- Email: pallasigueryan98@icloud.com
+
+⚡ Fun fact:
+I have two cats named Luna and Meowth (yes, like Pokémon). They actively participate in code reviews by sitting on my keyboard.
